@@ -454,7 +454,7 @@ gem 'gitaly', '~> 1.70.0'
 
 gem 'grpc', '~> 1.24.0'
 
-gem 'google-protobuf', '~> 3.8.0'
+gem 'google-protobuf', '~> 3.21.7'
 
 gem 'toml-rb', '~> 1.0.0', require: false
 
